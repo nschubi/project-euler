@@ -13,4 +13,3 @@ for i in numbers:
 
 print(sum)
 
-
